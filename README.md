@@ -27,5 +27,9 @@ A Telegram bot that predicts whether you have diabetes depending on several char
 #Screenshots
 
 ![Bot Interface](https://github.com/Nishantkumarr/Diabetes_prediction_bot/blob/main/Pictures/Empty.jpg "Bot Interface")
-![Start Command](https://github.com/Nishantkumarr/Diabetes_prediction_bot/blob/main/Pictures/start.jpg "Start Command")
+
+
+![Start Command](https://github.com/Nishantkumarr/Diabetes_prediction_bot/blob/main/Pictures/Start.jpg "Start Command")
+
+
 ![Predict Command](https://github.com/Nishantkumarr/Diabetes_prediction_bot/blob/main/Pictures/predict.jpg "Predict Interface")
